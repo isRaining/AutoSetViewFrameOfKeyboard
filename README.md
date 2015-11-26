@@ -1,0 +1,2 @@
+# AutoSetViewFrameOfKeyboard
+根据键盘高度，自动设置View的frame
